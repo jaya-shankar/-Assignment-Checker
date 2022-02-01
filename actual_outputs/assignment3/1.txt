@@ -1,0 +1,3 @@
+Enter number of seconds for timer: 
+00:01 
+Timer done!!!

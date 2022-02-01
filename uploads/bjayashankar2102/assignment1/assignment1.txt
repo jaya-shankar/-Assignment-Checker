@@ -1,0 +1,3 @@
+Decoded text is:  Hello Everyone! Complete the remaining 2 assignments to earn your certificate!
+Decoded text is:  All the best in your Python Journey!!
+Decoded text is:  
